@@ -82,7 +82,7 @@
 		996F4F2C18F2543D003038D1 = {
 			isa = PBXGroup;
 			children = (
-				996F4F3E18F2543D003038D1 /* iOS Design Patterns */,
+				996F4F3E18F2543D003038D1 /* iOS Project */,
 				996F4F5D18F2543D003038D1 /* iOS Design PatternsTests */,
 				996F4F3718F2543D003038D1 /* Frameworks */,
 				996F4F3618F2543D003038D1 /* Products */,
@@ -109,7 +109,7 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		996F4F3E18F2543D003038D1 /* iOS Design Patterns */ = {
+		996F4F3E18F2543D003038D1 /* iOS Project */ = {
 			isa = PBXGroup;
 			children = (
 				996F4F4718F2543D003038D1 /* iOSDesignPatternsAppDelegate.h */,
@@ -120,6 +120,7 @@
 				996F4F5018F2543D003038D1 /* Images.xcassets */,
 				996F4F3F18F2543D003038D1 /* Supporting Files */,
 			);
+			name = "iOS Project";
 			path = "iOS Design Patterns";
 			sourceTree = "<group>";
 		};
